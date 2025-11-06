@@ -31,6 +31,6 @@ Actively participating in hackathons and programming contests (ICPC).
 ---
 
 ## 🌐 Connect with me
-📫 Email: your.email@example.com  
+📫 Email: sagyngaiyeraly@gamil.com 
 💬 Telegram: [@Yeeraly](https://t.me/Yeeraly)  
 
