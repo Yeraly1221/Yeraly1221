@@ -70,10 +70,6 @@ I don't just follow tutorials. I design systems: think through architecture, wri
 ## 📊 GitHub Stats
  
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yeraly1221&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Yeraly1221&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yeraly1221&theme=tokyonight&hide_border=true" />
 </p>
 
