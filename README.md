@@ -25,7 +25,7 @@ I don't just follow tutorials. I design systems: think through architecture, wri
  
 - 🏗️ Currently building: **Telecom Platform** — Spring Boot, PostgreSQL, JWT Auth, REST API
 - 📚 Learning: System design, application security, clean architecture
-- 🔐 Interested in: Backend security, AppSec (SAST/DAST/IAST/RASP)
+- 🔐 Interested in: Backend, Database, Microservices, 
 - 🌍 Based in Kazakhstan 🇰🇿
 - 💬 Languages: Kazakh, Russian, English
 ---
